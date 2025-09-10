@@ -1,0 +1,22 @@
+hr{
+  color: rgb(196, 26, 26);
+}
+#projects{
+color: rgb(5, 124, 13);
+}
+#main{
+  color: #5682B1;
+}
+body{
+  text-align:center;
+  /* text-align: justify; */
+}
+#PROFESSIONAL{
+  color: #db8e46;
+}
+#EDUCATION{
+  color:#254D70;
+}
+#SKILLS{
+  color: #D76C82;
+}
